@@ -4,6 +4,8 @@ Update Date: March 5, 2025
 
 Effective Date: March 5, 2025
 
+Chinese Version: [Privacy Policy](https://github.com/XperInsight/FillText-CN/blob/main/PrivacyPolicy.md?plain=1)
+
 The TextFill website, TextFill applications for all platforms, and TextFill are products of XperInsight, an organization for individual entities.
 
 At TextFill, we are committed to protecting your privacy. This privacy policy outlines our policies and procedures regarding the collection, use, and disclosure of your information when you use our services, and informs you of your privacy rights and how the law protects you.
