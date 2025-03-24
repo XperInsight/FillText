@@ -43,8 +43,7 @@ Supports the following dynamic placeholders:
 
 ## 📦 Installation
 
-1. Install from Chrome Web Store
-2. Download local files and drag to browser extension configuration page
+1. Install from [Chrome Web Store](https://chromewebstore.google.com/detail/cecckcofakgpafbbfajmemimndpeiofl)
 
 ## Who We Are
 
